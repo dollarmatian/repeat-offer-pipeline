@@ -39,3 +39,6 @@ npm-debug.log*
 .DS_Store
 .idea/
 .vscode/
+
+# Private planning material
+spec/
