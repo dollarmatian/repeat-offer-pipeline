@@ -1,0 +1,6 @@
+[
+  {"subject_reference": "MPAN-2001", "inputs": {"previous_read": 45210, "current_read": 45530, "days_in_period": 31, "read_source": "smart", "tariff_code": "standard"}},
+  {"subject_reference": "MPAN-2002", "inputs": {"previous_read": 1200, "current_read": 1200, "days_in_period": 30, "read_source": "customer", "tariff_code": "economy"}},
+  {"subject_reference": "MPAN-2003", "inputs": {"previous_read": 99950, "current_read": 120, "days_in_period": 30, "read_source": "agent", "tariff_code": "standard"}},
+  {"subject_reference": "MPAN-2004", "inputs": {"previous_read": 500, "current_read": 800, "days_in_period": 30, "read_source": "estimated", "tariff_code": "standard"}}
+]

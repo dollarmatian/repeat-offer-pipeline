@@ -1,0 +1,7 @@
+[
+  {"subject_reference": "CUST-1001", "inputs": {"loans_repaid": 4, "missed_payments_last_12m": 0, "outstanding_balance": "8000", "average_monthly_revenue": "12000", "requested_amount": "25000", "sector": "retail"}},
+  {"subject_reference": "CUST-1002", "inputs": {"loans_repaid": 1, "missed_payments_last_12m": 0, "outstanding_balance": "3000", "average_monthly_revenue": "6000", "requested_amount": "30000", "sector": "construction"}},
+  {"subject_reference": "CUST-1003", "inputs": {"loans_repaid": 2, "missed_payments_last_12m": 1, "outstanding_balance": "1000", "average_monthly_revenue": "9000", "requested_amount": "10000", "sector": "hospitality"}},
+  {"subject_reference": "CUST-1004", "inputs": {"loans_repaid": 0, "missed_payments_last_12m": 0, "outstanding_balance": "0", "average_monthly_revenue": "4000", "requested_amount": "5000", "sector": "retail"}},
+  {"subject_reference": "CUST-1005", "inputs": {"loans_repaid": 5, "missed_payments_last_12m": 0, "outstanding_balance": "40000", "average_monthly_revenue": "30000", "requested_amount": "100000", "sector": "logistics"}}
+]
